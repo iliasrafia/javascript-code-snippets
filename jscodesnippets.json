@@ -1,0 +1,19 @@
+{
+  "Style import": {
+    "prefix": "imps",
+    "body": "import styles from './index.modules.scss'",
+    "description": "Import styles module from the current folder"
+  },
+
+  "log": {
+    "prefix": "log",
+    "body": "console.log()",
+    "description": "Log output to console"
+  },
+
+  "arrow function": {
+    "prefix": "afc",
+    "body": "() => {}",
+    "description": "Creates an anonymous function without params"
+  }
+}
